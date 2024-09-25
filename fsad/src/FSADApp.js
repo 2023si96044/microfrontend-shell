@@ -17,10 +17,15 @@ const FSADApp = () => {
         <div className="syllabus-content">
           <p>Full Stack App Development course content includes...</p>
           <ul>
-            <li>HTML/CSS/JavaScript</li>
-            <li>React.js</li>
-            <li>Node.js</li>
-            <li>Database Management</li>
+            <li> - Application Development</li>
+            <li> - Understanding the Basics</li>
+            <li> - Web Protocols</li>
+            <li> - Server Side:  Implementing Web Services</li>
+			<li> - Securing Application</li>
+			<li> - Understanding Frontend Development</li>
+			<li> - Testing </li>
+			<li> - Accessibility and Performance</li>
+			<li> - Latest Advancements</li>
           </ul>
         </div>
       )}

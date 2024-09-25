@@ -17,10 +17,16 @@ const DevOpsApp = () => {
         <div className="syllabus-content">
           <p>DevOps course content includes...</p>
           <ul>
-            <li>CI/CD Pipelines</li>
-            <li>Containerization with Docker</li>
-            <li>Kubernetes</li>
-            <li>Monitoring and Logging</li>
+            <li> - Foundational Terminology and Concepts</li>
+            <li> - Why and What is DevOps?</li>
+            <li> - DevOps Dimensions</li>
+            <li> - Source Code Management</li>
+			<li> - Continuous build and code quality</li>
+			<li> - Continuous Integration and Continuous Delivery</li>
+			<li> - Continuous Deployment</li>
+			<li> - Continuous Monitoring</li>
+			<li> - Configuration Management</li>
+			<li> - Virtualization and Containerization</li>
           </ul>
         </div>
       )}

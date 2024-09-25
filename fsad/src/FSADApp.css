@@ -1,0 +1,32 @@
+.syllabus-container {
+  margin: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.syllabus-header {
+  cursor: pointer;
+  background-color: #f7f7f7;
+  padding: 10px;
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.syllabus-header:hover {
+  background-color: #eaeaea;
+}
+
+.syllabus-content {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin: 5px 0;
+}
